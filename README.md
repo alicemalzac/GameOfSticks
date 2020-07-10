@@ -1,6 +1,6 @@
 # Jogo dos Palitos
 
-# Sobre o projeto
+## Sobre o projeto
 
 O Jogo dos Palitos foi desenvolvido, como trabalho final, na cadeira de Linguagem de programação ministrada no 1º semestre de 2015, na Universidade de Fortaleza.
 
