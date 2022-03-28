@@ -1,10 +1,10 @@
-# Jogo dos Palitos
+# Game of Sticks
 
-## Sobre o projeto
+## About the project
 
-O Jogo dos Palitos foi desenvolvido, como trabalho final, na cadeira de Linguagem de programação ministrada no 1º semestre de 2015, na Universidade de Fortaleza.
+The Game of Sticks was developed, as a final work, in the programming language course taught in the 1st semester of 2015, at the University of Fortaleza.
 
-## Linguagem
+## Language
 
-Foi desenvolvimento como forma de fixar os conhecimentos adquiridos durante o semestre na linguagem C.
+It was development as a way of fixing the knowledge acquired during the semester in the C language.
 
