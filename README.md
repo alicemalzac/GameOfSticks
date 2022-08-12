@@ -6,5 +6,5 @@ The Game of Sticks was developed, as a final work, in the programming language c
 
 ## Language
 
-It was development as a way of fixing the knowledge acquired during the semester in the C language.
+It was development as a way of fixating the knowledge acquired during the semester in the C language.
 
